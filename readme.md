@@ -1,4 +1,4 @@
-#Server Side Rendering Simple Application
+# Server Side Rendering Simple Application
 
 ```
 npm install
