@@ -4,3 +4,9 @@
 npm install
 npm start
 ```
+
+open browser and type
+
+```
+localhost:3001
+```
